@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: mudkip
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST0126SRS00*
 
 Unresolved Issues:  None. 
 
